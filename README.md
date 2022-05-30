@@ -7,14 +7,13 @@
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=stliakis&theme=onedark&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
  
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=stliakis&theme=react-dark)](https://github.com/stliakis
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=stliakis&theme=react-dark)](https://github.com/stliakis)
 
 
 ### Languages
 
 [![Python Badge](https://img.shields.io/badge/-python-474A8A?style=for-the-badge&labelColor=black&logo=python&logoColor=474A8A)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![TypeScript Badge](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 
 
 ### Frameworks
