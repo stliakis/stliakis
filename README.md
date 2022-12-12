@@ -7,8 +7,6 @@
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=stliakis&theme=onedark&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
  
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=stliakis&theme=react-dark)](https://github.com/stliakis)
-
 
 ### Languages
 
